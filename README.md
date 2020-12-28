@@ -1,2 +1,3 @@
 # Portfolio
-my Personal portfolio 
+HTML5,CSS & JAVASCRIPT USED TO CREATE MY PERSONAL PORTFOLIO
+
